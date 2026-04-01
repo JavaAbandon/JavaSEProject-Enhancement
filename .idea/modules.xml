@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSEProject-Enhancement.iml" filepath="$PROJECT_DIR$/JavaSEProject-Enhancement.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-01-collection/day-01-collection.iml" filepath="$PROJECT_DIR$/day-01-collection/day-01-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-02-collection/day-02-collection.iml" filepath="$PROJECT_DIR$/day-02-collection/day-02-collection.iml" />
     </modules>
   </component>
 </project>
