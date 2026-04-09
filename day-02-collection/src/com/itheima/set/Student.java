@@ -1,4 +1,4 @@
-package com.itheima;
+package com.itheima.set;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

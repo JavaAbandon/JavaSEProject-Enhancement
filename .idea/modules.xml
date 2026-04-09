@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaSEProject-Enhancement.iml" filepath="$PROJECT_DIR$/JavaSEProject-Enhancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-sever/chat-sever.iml" filepath="$PROJECT_DIR$/chat-sever/chat-sever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-system/chat-system.iml" filepath="$PROJECT_DIR$/chat-system/chat-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-01-collection/day-01-collection.iml" filepath="$PROJECT_DIR$/day-01-collection/day-01-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-02-collection/day-02-collection.iml" filepath="$PROJECT_DIR$/day-02-collection/day-02-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-03-io/day-03-io.iml" filepath="$PROJECT_DIR$/day-03-io/day-03-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-04-thread/day-04-thread.iml" filepath="$PROJECT_DIR$/day-04-thread/day-04-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-05-net/day-05-net.iml" filepath="$PROJECT_DIR$/day-05-net/day-05-net.iml" />
     </modules>
   </component>
 </project>
